@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "sound-app"
+  "defaultProject": "sound-app",
+  "cli": {
+    "analytics": false
+  }
 }
